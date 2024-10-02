@@ -1,5 +1,3 @@
-//![logo](https://github.com/SanjayKumarKhatri/SanjayKumarKhatri/blob/main/Sanjay-Github-banner.PNG)
-
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
